@@ -5,7 +5,7 @@
  *      Author: joxie
  */
 
-#include "/home/joxie/UNP/networkExperiment/client/cli.h"
+#include "./cli.h"
 
 int		rtt_d_flag = 0;		/* debug flag; can be set by caller */
 
