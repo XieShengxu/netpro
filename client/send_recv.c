@@ -5,7 +5,7 @@
  *      Author: joxie
  */
 
-#include "/home/joxie/UNP/networkExperiment/client/cli.h"
+#include "./cli.h"
 
 
 static struct rtt_info   rttinfo;
