@@ -5,7 +5,7 @@
  *      Author: joxie
  */
 
-#include "/home/joxie/UNP/networkExperiment/client/cli.h"
+#include "./cli.h"
 
 int		daemon_proc;		/* set nonzero by daemon_init() */
 static void	err_doit(int, int, const char *, va_list);
