@@ -4,7 +4,7 @@
  *  Created on: May 31, 2018
  *      Author: joxie
  */
-#include "/home/joxie/UNP/networkExperiment/server/srv.h"
+#include "./srv.h"
 
 int
 Socket(int family, int type, int protocol)
