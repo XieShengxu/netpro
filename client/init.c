@@ -5,7 +5,7 @@
  *      Author: joxie
  */
 
-#include "/home/joxie/UNP/networkExperiment/client/cli.h"
+#include "./cli.h"
 
 char *
 Fgets(char *ptr, int n, FILE *stream)
